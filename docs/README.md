@@ -1,12 +1,9 @@
-# Screenshots
+# Project Documentation
 
-Store all application screenshots in this folder.
+This folder contains additional documentation for Aarudhra.
 
-Example:
-
-- home.png
-- firstaid.png
-- chatbot.png
-- hospital.png
-- bmi.png
-- reminder.png
+- Features.md
+- Architecture.md
+- Modules.md
+- Testing.md
+- FutureScope.md
