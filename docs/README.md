@@ -6,4 +6,3 @@ This folder contains additional documentation for Aarudhra.
 - Architecture.md
 - Modules.md
 - Testing.md
-- FutureScope.md
