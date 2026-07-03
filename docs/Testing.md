@@ -1,32 +1,83 @@
-# TESTING PROCESS
+# 🧪 TESTING PROCESS
 
 The testing process was carried out in multiple stages to ensure that the app functions smoothly and remains easy to use.
 
-# 1)	FUNCTIONAL TESTING :
+---
 
-* Buttons, screens, and modules were checked to confirm proper operation.
+# ✅ 1. FUNCTIONAL TESTING
 
-* First-aid steps were tested to ensure they load correctly.
+The following functionalities were tested to confirm proper operation:
 
-* Audio instructions were tested to confirm proper playback.
+- ✔️ Buttons, screens, and modules were checked to confirm proper operation.
+- ✔️ First-aid steps were tested to ensure they load correctly.
+- ✔️ Audio instructions were tested to confirm proper playback.
+- ✔️ Hospital locator features were tested for correct display.
+- ✔️ Health monitoring charts were verified for correct updates.
 
-* Hospital locator features were tested for correct display.
+---
 
-* Health monitoring charts were verified for correct updates.
+# 👨‍💻 2. USABILITY TESTING
 
-# 2)	USABILITY TESTING :
+The app was reviewed to check whether the interface is simple and understandable.
 
-The app was reviewed to check whether the interface is simple and understandable. Button sizes, readability of text, icon clarity, and navigation flow were examined. The Home button was tested on every screen to ensure consistent navigation.
+The following aspects were examined:
 
-# 3)	OFFLINE TESTING :
+- 📱 Button sizes
+- 🔤 Readability of text
+- 🎨 Icon clarity
+- 🔄 Navigation flow
 
-The app was tested without internet to ensure that first-aid content, images, and audio files load correctly. Hospital details embedded within the app were checked for proper offline visibility. Reminders and other basic features were tested to confirm they work without network dependency.
+The **Home button** was tested on every screen to ensure consistent navigation.
 
-# 4)	PERFORMANCE TESTING :
+---
 
-The app was tested on low-end Android phones to ensure there is no lag or delay. Screens were checked for quick loading and smooth transitions.
+# 📡 3. OFFLINE TESTING
 
-Audio playback was tested for uninterrupted performance.
+The app was tested without internet to ensure that first-aid content, images, and audio files load correctly.
 
-# 6)	BUG FIXING :
-Issues found during testing, such as navigation errors, audio mismatches, or display problems, were corrected before final deployment.
+The following were verified:
+
+- 🩹 First-aid content
+- 🖼️ Images
+- 🔊 Audio files
+- 🏥 Hospital details embedded within the app
+- 💊 Medicine reminders
+- ⚙️ Other basic features
+
+All were tested to confirm they work without network dependency.
+
+---
+
+# ⚡ 4. PERFORMANCE TESTING
+
+The app was tested on low-end Android phones to ensure there is no lag or delay.
+
+The following were checked:
+
+- 📱 Quick screen loading
+- 🔄 Smooth screen transitions
+- 🔊 Uninterrupted audio playback
+
+---
+
+# 🐞 5. BUG FIXING
+
+Issues found during testing, such as:
+
+- ❌ Navigation errors
+- 🔊 Audio mismatches
+- 🖥️ Display problems
+
+were corrected before final deployment.
+
+---
+
+# 📋 Testing Summary
+
+| Testing Type | Purpose | Status |
+|--------------|---------|--------|
+| ✅ Functional Testing | Verified application features and modules | ✔️ Completed |
+| 👨‍💻 Usability Testing | Evaluated interface, navigation, and accessibility | ✔️ Completed |
+| 📡 Offline Testing | Ensured offline functionality and reliability | ✔️ Completed |
+| ⚡ Performance Testing | Checked application speed and stability | ✔️ Completed |
+| 🐞 Bug Fixing | Resolved identified issues before deployment | ✔️ Completed |
