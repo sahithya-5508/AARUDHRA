@@ -1,4 +1,7 @@
 # KEY FEATURES OF AARUDHRA
+
+---
+
 1) Tamil text-to-speech (TTS) with NotoSansTamil font for audio-guided first-aid steps, accessible without reading skills.
 
 2) Easy and quick first-aid guidance with step-by-step flows for cuts, burns, fever, stroke, snakebites, and headaches, aligned with guidance from WHO, ICMR, and IMA.
